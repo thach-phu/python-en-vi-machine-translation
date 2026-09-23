@@ -108,7 +108,7 @@ for i, src_text in enumerate(english_sentences, 1):
 ---
 
 ## 👥 Thành Viên Thực Hiện (Team Members)
-**Phan Đình Hiếu** 
-**Dương Thạch Phú** 
-**Trần Thiên Phú** 
-**Kiều Hoài Nam** 
+* **Phan Đình Hiếu**
+* **Dương Thạch Phú**
+* **Trần Thiên Phú**
+* **Kiều Hoài Nam**
